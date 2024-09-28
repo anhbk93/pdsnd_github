@@ -78,9 +78,8 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 -->washington.csv
 -->README.md
 -->image
---->README
+----->README
 ----->1727508512724.png
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Nanodgree - Programming for Data Science with Python
