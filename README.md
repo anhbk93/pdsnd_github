@@ -51,15 +51,15 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 #### Files used
-pdsnd_github
-+-- bikeshare.py
-+-- chicago.csv
-+-- new_york_city.csv
-+-- washington.csv
-+-- image
-|   +-- README
-|       +-- 1727508512724.png
-+-- README.md
+pdsnd_github\
++-- bikeshare.py\
++-- chicago.csv\
++-- new_york_city.csv\
++-- washington.csv\
++-- image\
+|   +-- README\
+|       +-- 1727508512724.png\
++-- README.md\
 
 ### Credits
 #### Udacity Nanodgree - Programming for Data Science with Python
