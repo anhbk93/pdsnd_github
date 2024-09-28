@@ -1,3 +1,5 @@
+"""This module is created during the time I had joined Udacity Nanodegree - Programming for Data Science with Python."""
+
 import time
 import pandas as pd
 import numpy as np
